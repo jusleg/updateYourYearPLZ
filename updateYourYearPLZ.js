@@ -1,3 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
-    document.getElementById("updateYourYearPLZ").innerHTML = new Date().getFullYear();
+    window.setInterval(getYear,10);
 });
+
+function getYear(){
+    document.getElementById("updateYourYearPLZ").innerHTML = new Date().getFullYear(); 
+}
