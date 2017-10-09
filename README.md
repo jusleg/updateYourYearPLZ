@@ -4,7 +4,7 @@ You should always update your footer year. This repo will let Javascript do it f
 ## How to import updateYourYearPLZ
 In your head section, add the following tag:
 ```html
-<script src="https://rawgit.com/jusleg/updateYourYearPLZ/master/updateYourDatePLZ.js"></script>
+<script src="https://cdn.rawgit.com/jusleg/updateYourYearPLZ/111cb805/updateYourYearPLZ.js"></script>
 ```
 
 ## How to use updateYourYearPLZ
