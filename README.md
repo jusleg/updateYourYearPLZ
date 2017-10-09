@@ -1,4 +1,4 @@
-# Update Your Year PLZ
+# Update Your Year PLZ [![year](https://img.shields.io/badge/Year-2017-lightgrey.svg)](http://todaysdate.com/)
 You should always update your footer year. This repo will let Javascript do it for you.
 
 ## How to import updateYourYearPLZ
