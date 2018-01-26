@@ -1,4 +1,4 @@
-# Update Your Year PLZ [![year](https://img.shields.io/badge/Year-2018-lightgrey.svg)](http://todaysdate.com/)
+# Update Your Year PLZ [![year](https://update-year-badge.herokuapp.com)](http://todaysdate.com/)
 You should always update your footer year. This repo will let Javascript do it for you.
 
 ## How to import updateYourYearPLZ
