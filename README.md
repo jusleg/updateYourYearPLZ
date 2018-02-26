@@ -1,4 +1,4 @@
-# Update Your Year PLZ [![year](https://update-year-badge.herokuapp.com)](http://todaysdate.com/)
+# Update Your Year PLZ [![year](http://159.65.234.57/year.php)](http://todaysdate.com/)
 You should always update your footer year. This repo will let Javascript do it for you.
 
 ## How to import updateYourYearPLZ
